@@ -58,4 +58,4 @@ E-Commerce/
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+https://github.com/ammarmultani03/Shop-Ease-E-Commerce-Website

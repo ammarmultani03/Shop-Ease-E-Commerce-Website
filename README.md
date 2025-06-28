@@ -57,5 +57,5 @@ E-Commerce/
 ## 🛠️ How to Use
 
 1. **Clone or Download** this repository:
-   ```bash
-https://github.com/ammarmultani03/Shop-Ease-E-Commerce-Website
+   https://github.com/ammarmultani03/Shop-Ease-E-Commerce-Website
+

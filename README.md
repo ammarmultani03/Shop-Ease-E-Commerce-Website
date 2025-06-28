@@ -2,6 +2,8 @@
 
 Welcome to **Shop-Ease**, a modern and fully responsive e-commerce frontend built with HTML, CSS, and JavaScript. This project simulates a shopping platform with core features like product listings, a shopping cart, navigation, banners, and responsive design.
 
+Live Project View :  https://ammarmultani03.github.io/Shop-Ease-E-Commerce-Website/
+
 ---
 
 ## 📸 Preview
